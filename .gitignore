@@ -1,0 +1,20 @@
+# Reference: https://github.com/istarc/stm32/blob/master/.gitignore
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Eclipse CDT project files (User-specific stuff)
+*.bak
+.cproject
+.project
+.settings/
+*.launch
+/Release
+/Debug
+
+# Misc
+*.map
+*.m
